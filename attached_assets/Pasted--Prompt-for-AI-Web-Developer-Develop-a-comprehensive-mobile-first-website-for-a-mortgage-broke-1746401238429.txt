@@ -1,0 +1,75 @@
+**Prompt for AI Web Developer:**
+
+Develop a comprehensive, mobile-first website for a mortgage broker, Good Friend Mortgage, based in the Alpharetta and Roswell, Georgia area. The primary goal is to create a modern, user-friendly, and highly effective online presence that drives lead generation and builds trust, ultimately surpassing typical competitor websites in design, functionality, and user experience.
+
+**Website Goals:**
+
+* Generate qualified leads from potential homebuyers and those looking to refinance in the target service area.
+* Establish Good Friend Mortgage as a credible, expert, and trustworthy local mortgage provider.
+* Provide a seamless and intuitive user experience across all devices.
+* Educate visitors about mortgage options and the home loan process.
+
+**Target Audience:**
+
+* Individuals and families in the Alpharetta and Roswell, GA area seeking mortgage loans (purchase, refinance, second mortgage, reverse mortgage).
+* Individuals looking for clear, reliable information and a straightforward application process.
+
+**Key Website Features and Content Areas:**
+
+1.  **Homepage:**
+    * Clear and compelling headline and subheading communicating the core value proposition.
+    * Immediately visible calls to action (e.g., "Get a Quote," "View Today's Rates," "Contact Us").
+    * Brief overview of services offered.
+    * Highlight key differentiators (e.g., local expertise, customer service ratings - mention 5-star Google/Facebook, A+ BBB).
+    * Visually appealing design with high-quality imagery or video background.
+    * Smooth transitions and modern animations on scroll or interaction.
+
+2.  **About Us Page:**
+    * Tell the story of Good Friend Mortgage and its commitment to clients and the community.
+    * Introduce the team with professional photos and bios (emphasizing expertise and approachability).
+    * Showcase awards or recognition.
+
+3.  **Services Section/Pages:**
+    * Dedicated pages or detailed sections for each main service:
+        * Purchase Mortgages
+        * Refinance Options
+        * Second Mortgage Loans
+        * Reverse Mortgages
+    * Clearly explain each service, its benefits, and who it's for.
+    * Include relevant FAQs for each service.
+    * Incorporate subtle animations or interactive elements to keep users engaged.
+
+4.  **Mortgage Tools & Calculators:**
+    * Integrate accurate and easy-to-use calculators (e.g., mortgage payment, affordability, refinance savings).
+    * Potentially include a rate comparison tool.
+    * Make these tools easily accessible from relevant pages.
+
+5.  **Resources/Blog:**
+    * Section for educational content (blog posts, articles, guides, checklists).
+    * Cover topics relevant to the target audience (e.g., "First-Time Homebuyer's Guide," "Understanding Interest Rates," "Steps to Refinancing").
+    * Content should be easy to read and shareable.
+
+6.  **Testimonials/Reviews:**
+    * Prominently display authentic client testimonials and reviews.
+    * Consider integrating feeds from Google, Facebook, or other review platforms if possible.
+    * Use varied formats (text, potentially video snippets if available).
+
+7.  **Contact Us Page:**
+    * Clear contact information (phone number, email address, physical address with map).
+    * Easy-to-use contact form with essential fields.
+    * Business hours.
+
+**Technical and Design Requirements:**
+
+* **Mobile-First and Responsive Design:** The website must be designed and developed with mobile devices as the primary focus, ensuring a flawless experience on smartphones, tablets, and desktops.
+* **Latest Modern Design Trends:** Utilize current web design aesthetics, including clean layouts, ample white space, modern typography, and a cohesive color palette that reflects trustworthiness and professionalism.
+* **Smooth Transitions and Animations:** Implement subtle, tasteful transitions and animations to enhance user engagement and create a polished feel without being distracting.
+* **High Performance:** Optimize the website for fast loading speeds across all devices and network conditions.
+* **SEO Optimization:** Build the website with strong on-page SEO fundamentals, including semantic HTML, proper heading structure, image alt tags, and schema markup where appropriate. The site structure should be logical for search engines to crawl.
+* **User-Friendly:** The website must be intuitive and easy to navigate for users of all technical skill levels. Forms should be simple and clear.
+* **Secure:** Implement necessary security measures to protect user data (e.g., HTTPS).
+* **Scalable:** The codebase should be clean, well-organized, and scalable for future additions or modifications.
+
+**Outcome:**
+
+The final website should be a highly performant, aesthetically pleasing, and conversion-focused platform that effectively represents Good Friend Mortgage online and provides a superior user experience compared to competitors in the local market. The design should instill confidence and encourage potential clients to take the next step.
