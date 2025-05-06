@@ -12,6 +12,8 @@ interface CalculatorCardProps {
   index: number;
 }
 
+
+
 const CalculatorCard = ({ title, description, icon, coming, index }: CalculatorCardProps) => {
   return (
     <motion.div
